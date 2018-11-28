@@ -1,0 +1,7 @@
+print("Need help converting from degrees Fahrenheit to Celsius? \nThen you're in the right place!")
+print(" ")
+f = input("Degrees Fahrenheit: ")
+f =float(f)
+answer = round((f - 32) * (5 / 9),2)
+answer = str(answer)
+print("It is " + answer + " degrees Celsius!")

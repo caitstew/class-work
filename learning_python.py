@@ -1,0 +1,6 @@
+
+# coding: utf-8
+
+# In Python you can make sets and lists. 
+# In Python you can use for loops to work with those. 
+# In Python you can layer techniques that you learn into bigger, more complicated applications. 
